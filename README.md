@@ -19,4 +19,4 @@ Each chapter has its own folder with exercises and practice scripts:
 
 ## Progress
 
-Currently on: **Chapter 3 — Lists**
+Currently on: **Chapter 4 — Working with Lists**
